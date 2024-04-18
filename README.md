@@ -9,7 +9,7 @@ A simple to-do list application where users can add, delete, and mark tasks as c
 
 ![2do](https://github.com/ashutosh786palhare/WebDev-Projects/assets/53346137/d39570bc-3529-4386-9c2e-dcfc59bed30b)
 
-Live Preview
+ <a href="https://ashutosh786palhare.github.io/WebDev-Projects/2do-app"><strong>➥ Live Demo</strong></a>
 
 
 ### 2. Simple Calculator
@@ -18,8 +18,7 @@ A basic calculator with functionalities for addition, subtraction, multiplicatio
 ![CalcPNG](https://github.com/ashutosh786palhare/WebDev-Projects/assets/53346137/a6ce9f28-59d1-48b9-98ef-fe26baafb840)
 
 
-Live Preview
-
+ <a href="https://ashutosh786palhare.github.io/WebDev-Projects/Calc"><strong>➥ Live Demo</strong></a>
 
 
 ### 3. Portfolio Site
@@ -27,7 +26,7 @@ A personal portfolio website showcasing projects, skills, and information about 
 
 ![portfolio](https://github.com/ashutosh786palhare/WebDev-Projects/assets/53346137/f47e5c0f-27c6-4c6c-ba9b-99eed205f818)
 
-Live Preview
+ <a href="https://ashutosh786palhare.github.io/WebDev-Projects/Portfoliyo"><strong>➥ Live Demo</strong></a>
 
 
 ### 4. Profile Card
@@ -36,7 +35,7 @@ A profile card displaying user information such as name, occupation, and contact
 ![card](https://github.com/ashutosh786palhare/WebDev-Projects/assets/53346137/402c5a91-0519-442b-b443-e09d12c68e42)
 
 
-Live Preview
+ <a href="https://ashutosh786palhare.github.io/WebDev-Projects/Profile-Card"><strong>➥ Live Demo</strong></a>
 
 
 
