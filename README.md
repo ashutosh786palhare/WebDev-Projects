@@ -6,28 +6,39 @@ Welcome to the Web Dev Projects Repository! This repository contains a collectio
 
 ### 1. To-Do App
 A simple to-do list application where users can add, delete, and mark tasks as completed. Utilizes HTML, CSS, and JavaScript for managing tasks dynamically.
+
 ![2do](https://github.com/ashutosh786palhare/WebDev-Projects/assets/53346137/d39570bc-3529-4386-9c2e-dcfc59bed30b)
+
 Live Preview
+
 
 ### 2. Simple Calculator
 A basic calculator with functionalities for addition, subtraction, multiplication, and division using HTML, CSS, and JavaScript.
+
 ![CalcPNG](https://github.com/ashutosh786palhare/WebDev-Projects/assets/53346137/a6ce9f28-59d1-48b9-98ef-fe26baafb840)
 
+
 Live Preview
+
+
 
 ### 3. Portfolio Site
 A personal portfolio website showcasing projects, skills, and information about the developer. Built using HTML for structure, CSS for styling, and JavaScript for interactivity.
-![portfolio](https://github.com/ashutosh786palhare/WebDev-Projects/assets/53346137/f47e5c0f-27c6-4c6c-ba9b-99eed205f818)
 
+![portfolio](https://github.com/ashutosh786palhare/WebDev-Projects/assets/53346137/f47e5c0f-27c6-4c6c-ba9b-99eed205f818)
 
 Live Preview
 
+
 ### 4. Profile Card
 A profile card displaying user information such as name, occupation, and contact details. Designed using HTML and CSS for layout and styling.
+
 ![card](https://github.com/ashutosh786palhare/WebDev-Projects/assets/53346137/402c5a91-0519-442b-b443-e09d12c68e42)
 
 
 Live Preview
+
+
 
 ### 5. Image Carousel
 An image carousel/slider displaying a series of images with navigation arrows. Implemented using HTML, CSS, and JavaScript for image transitions.
